@@ -15,6 +15,7 @@
     3. No Cryptocurrency
     4. Programmable
 
+
   ## 3. Difference Between Private and Public Blockchain?
     • In Public Blockchain Network the participants don't have to reveal the identity. They can just download a software and start transacting on the public network.
     • In private blockchain anonymity is not the way things works. The members of the private blockchain network would alwyas be known entities and 
@@ -22,5 +23,15 @@
     • In case of a public blockchain network, all transactions are visible to everyone.
     • In the case of private Blockchain network, it may not be a desirable thing. Sometime in private blockchain network like to keep their transactions confidential 
       and visible only to the counterparty. 
+
+ 
+  ## 3. What are the major components of Hyperledger Fabric?
+    • Membership Service Provider (MSP)
+    • Client
+    • Peer
+    • Orderer
+    • Chaincode
+
+  
   
       
