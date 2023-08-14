@@ -25,7 +25,7 @@
       and visible only to the counterparty. 
 
  
-  ## 3. What are the major components of Hyperledger Fabric?
+  ## 4. What are the major components of Hyperledger Fabric?
     • Membership Service Provider (MSP)
     • Client
     • Peer
