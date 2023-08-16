@@ -33,6 +33,8 @@
     • Chaincode
 
  ## 5. What is MSP and why we need MSP?
+    blockchain participants need a way to prove their identity to the rest of the network in order to transact on the network.
+
  
 
   
