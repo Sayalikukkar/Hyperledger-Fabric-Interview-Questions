@@ -32,6 +32,9 @@
     • Orderer
     • Chaincode
 
+ ## 5. What is MSP and why we need MSP?
+ 
+
   
   
       
