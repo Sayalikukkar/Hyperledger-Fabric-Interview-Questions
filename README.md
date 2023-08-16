@@ -33,7 +33,8 @@
     • Chaincode
 
  ## 5. What is MSP and why we need MSP?
-    blockchain participants need a way to prove their identity to the rest of the network in order to transact on the network.
+    blockchain participants need a way to prove their identity to the rest of the network in order to transact on the network. Certificate Authorities issue identities by generating a public 
+    and private key which forms a key-pair that can be used to prove identity. This identity needs a way to be recognized by the network, which is where the MSP comes in.
 
  
 
