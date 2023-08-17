@@ -38,6 +38,9 @@
     
     For example, a peer uses its private key to digitally sign, or endorse, a transaction. The MSP is used to check that the peer is allowed to endorse the transaction. The public key from the peer’s certificate is then 
     used to verify that the signature attached to the transaction is valid. Thus, the MSP is the mechanism that allows that identity to be trusted and recognized by the rest of the network.
+
+## 6. What are the clients in Hyperledger Fabric?
+    Clients are applications that act on behalf of a person to propose transactions on the network.
  
 
   
