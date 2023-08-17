@@ -35,7 +35,9 @@
  ## 5. What is MSP and why we need MSP?
     blockchain participants need a way to prove their identity to the rest of the network in order to transact on the network. Certificate Authorities issue identities by generating a public 
     and private key which forms a key-pair that can be used to prove identity. This identity needs a way to be recognized by the network, which is where the MSP comes in.
-
+    
+    For example, a peer uses its private key to digitally sign, or endorse, a transaction. The MSP is used to check that the peer is allowed to endorse the transaction. The public key from the peer’s certificate is then 
+    used to verify that the signature attached to the transaction is valid. Thus, the MSP is the mechanism that allows that identity to be trusted and recognized by the rest of the network.
  
 
   
