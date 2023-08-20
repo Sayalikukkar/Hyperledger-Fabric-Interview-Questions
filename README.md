@@ -51,6 +51,8 @@
     • Endorsing Peer
     • Committing Peer
     However, there is an overlap between endorsing and committing peers, in that endorsing. Peers are a special kind of committing peers.
+    Endorsers simulate and endorse transactions
+    Committers verify endorsements and validate transaction results, prior to committing transactions to the blockchain.
  
 
   
