@@ -46,8 +46,11 @@
 
 
 ## 7. Types of Peers in Hyperledger Fabric?
+    Peers Maintain the state of the network and a copy of the ledger. 
+    There are two different types of peers:
     • Endorsing Peer
     • Committing Peer
+    However, there is an overlap between endorsing and committing peers, in that endorsing. Peers are a special kind of committing peers.
  
 
   
