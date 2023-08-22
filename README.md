@@ -53,6 +53,9 @@
     However, there is an overlap between endorsing and committing peers, in that endorsing. Peers are a special kind of committing peers.
     Endorsers simulate and endorse transactions
     Committers verify endorsements and validate transaction results, prior to committing transactions to the blockchain.
+
+## 8. What is Orderer?
+    The ordering service accepts endorsed transactions, orders them into a block, and delivers the blocks to the committing peers
  
 
   
