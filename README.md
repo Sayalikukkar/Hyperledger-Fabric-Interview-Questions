@@ -55,7 +55,11 @@
     Committers verify endorsements and validate transaction results, prior to committing transactions to the blockchain.
 
 ## 8. What is Orderer?
-    The ordering service accepts endorsed transactions, orders them into a block, and delivers the blocks to the committing peers
+    The ordering service accepts endorsed transactions, orders them into a block, and delivers the blocks to the committing peers.
+
+## 9. What is Chaincode?
+    Smart contracts are computer programs that contain logic to execute transactions and modify the state of the assets stored within the ledger (world state). Hyperledger Fabric smart contracts are called chaincode and 
+    are written in Go , Java, Javascript, Typescript. The chaincode serves as the business logic for a Hyperledger Fabric network, in that the chaincode directs how you manipulate assets within the network
  
 
   
