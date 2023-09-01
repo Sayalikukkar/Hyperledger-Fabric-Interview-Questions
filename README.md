@@ -65,8 +65,6 @@
 ## 10. What is Organization?
     An organisation conceptually is an entity which has access to channels ( ledgers ) and can issue identities to participants so that every transaction's source is clear and identifiable.
 
-##  11. What is genesis Block?
-    which stores configuration information about the channel policies, members and anchor peers.
  
 
   
