@@ -65,7 +65,16 @@
 ## 10. What is Organization?
     An organisation conceptually is an entity which has access to channels ( ledgers ) and can issue identities to participants so that every transaction's source is clear and identifiable.
 
- 
+## 11. What are Nodes in Hyperledger Fabric?
+    Nodes connect to other nodes to form the blockchain network. In case of public blockchain like ethereum, bitcoin all nodes are equal. But in the case of hyperledger fabric, all nodes may not be equal.
+
+    In hyperledger fabric, there is the concept of members, members are legally seperate entities that join blockchain network to transact. These members share one or more dustributed ledgers and each of these members host nodes. Theese nodes are used for submitting 
+    the transaction and for managing the state of the ledger within the organization. Each node is a sign. an indentity by way of certificate's. even the users of hyperledger fabric ecosystem are assigned a certificate. 
+
+    Nodes initiate the transactions which lead to the execution of the chaincode the transactions are recorded in the ledger in the order they received. These chaincode executions also lead to the change of the state of the assets.
+
+    All the nodes and users in the hyperledger fabric network are assigned an identity and that is done by way of the msp and certificate authority. 
+
 
   
   
