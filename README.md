@@ -72,9 +72,6 @@
     Theese nodes are used for submitting the transaction and for managing the state of the ledger within the organization. Each node is a sign. an indentity by way of certificate's. 
     Even the users of hyperledger fabric ecosystem are assigned a certificate. 
 
-    Nodes initiate the transactions which lead to the execution of the chaincode the transactions are recorded in the ledger in the order they received. 
-    These chaincode executions also lead to the change of the state of the assets.
-
     All the nodes and users in the hyperledger fabric network are assigned an identity and that is done by way of the msp and certificate authority. 
 
 
